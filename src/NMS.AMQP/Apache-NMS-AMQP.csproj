@@ -58,7 +58,7 @@ with the License.  You may obtain a copy of the License at
     </PropertyGroup>
     <ItemGroup>
         <!-- Add PackageReference specific for your source control provider (see below) -->
-        <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
+        <!-- <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />-->
     </ItemGroup>
     <!-- SourceLink End -->
 
